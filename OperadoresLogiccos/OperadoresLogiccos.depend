@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653440429 source:c:\users\villa\desktop\operadoreslogiccos\main.c
+	<stdio.h>
+	<stdlib.h>
+

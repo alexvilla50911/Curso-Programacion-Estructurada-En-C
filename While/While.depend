@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653604293 source:c:\users\villa\desktop\platzi\programacion\while\main.c
+	<stdio.h>
+	<stdlib.h>
+
